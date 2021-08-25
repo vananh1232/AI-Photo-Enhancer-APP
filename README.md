@@ -2,7 +2,7 @@ Visori is an AI-powered photo enhancer app, used to increase the quality of blur
 
 Image super-resolution is based on the SRCNN paper. I used the dataset from this paper, along with the DIV2K dataset for the X4 model. 
 
-Here are some test results:
+Here are some of my test results:
 
 <img width="1268" alt="Screen Shot 2021-08-04 at 2 03 44 AM" src="https://user-images.githubusercontent.com/83958894/130793075-306b59fa-d6ac-49bb-b387-2b5edc07a2f8.png">
 
